@@ -1,0 +1,5 @@
+.DS_Store
+.idea/
+credentials.yml
+venv/
+__pycache__/
